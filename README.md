@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @emircturan
+- 👀 I'm interested in Artificial Intelligence.
+- 🌱 I'm currently learning Python language.
+- 📫 You can reach me via emircanturan@proton.me.
